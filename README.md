@@ -50,8 +50,8 @@ Designed by **CodeX Developers**, it brings the full power of Gemini Vision, Tex
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/KAWDHITHA-NIRMAL/Gemini-Kit-Web.git
-   cd Gemini-Kit-Web
+   git clone https://github.com/KAWDHITHA-NIRMAL/Gemini-Kit-Opensource
+   cd Gemini-Kit-Opensource
    ```
 
 2. **Install Dependencies**
